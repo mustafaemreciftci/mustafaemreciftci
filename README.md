@@ -9,10 +9,8 @@
 
 - 📫 How to reach me **mustafa.emre.ciftci@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://mustafaemreciftci.me](https://mustafaemreciftci.me/projects)
-- 📄 Know about my experiences [https://mustafaemreciftci.me/resume](https://mustafaemreciftci.me/resume)
-
-- ⚡ Fun fact **Messi is the G.O.A.T**
+- 👨‍💻 All of my projects are available at [https://mustafaemreciftci.me]()
+- 📄 Know about my experiences [https://mustafaemreciftci.me/resume]()
 
 <br>
 
