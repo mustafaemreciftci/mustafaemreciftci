@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **mustafa.emre.ciftci@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://mustafaemreciftci.me]()
-- 📄 Know about my experiences [https://mustafaemreciftci.me/resume]()
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
