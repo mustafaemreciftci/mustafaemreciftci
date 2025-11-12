@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Emre</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer from Türkiye</h3>
 
 <br>
-
-- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **React Native**
 
